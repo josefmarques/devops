@@ -4,6 +4,7 @@ venv
 .venv 
 .env
 alembic.ini
+backup
 
 
 
