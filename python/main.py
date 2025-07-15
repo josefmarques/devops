@@ -4,9 +4,12 @@
 # alembic init alembic 
 # alterar sqlalchemy.url = sqlite://banco.db
 #alembic revision --autogenerate -m "Initial Migration"
+# executar a migração: alembic upgrade head
 ## para rodar o código, executar no terminal: uvicorn main:app --reload
 # endpoint: meusite.com 
 # rota: /orders (caminho/path)
+
+
 
 # Rest APIS
 # Get -> leitura/pegar 
